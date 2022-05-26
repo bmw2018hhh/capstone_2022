@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/badcal"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/bad_selector"
+        android:title="bad칼로리"/>
+
+    <item android:id="@+id/exercise"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/ex_selector"
+        android:title="오늘의 운동"
+        />
+
+    <item android:id="@+id/myreport"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/report_selector"
+        android:title="마이리포트"/>
+
+    <item android:id="@+id/mypage"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/page_selector"
+        android:title="마이페이지"/>
+
+</menu>

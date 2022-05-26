@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START"/>
+        </intent>
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="whateverString"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication"
+        tools:replace="android:appComponentFactory">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CakeActivity" />
+        <activity android:name=".DrinkActivity" />
+        <activity android:name=".NightActivity" />
+        <activity android:name=".Youtube"/>
+
+        <activity android:name=".Anzoo"/>
+        <activity android:name=".SubAnzoo"/>
+        <activity android:name=".Gansick"/>
+        <activity android:name=".Yasick"/>
+
+        <activity android:name=".AnzooCal"/>
+        <activity android:name=".GansickCal"/>
+        <activity android:name=".YasickCal"/>
+        <activity android:name=".BetterKcal"/>
+
+    </application>
+
+</manifest>
