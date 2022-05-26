@@ -8,6 +8,6 @@
 - 팀장 : 20185248 백지원
 - 팀원 : 20185234 김혜민
 - 로고 
-<img src= 
+![KakaoTalk_20220527_015253786](https://user-images.githubusercontent.com/101175984/170536729-1d18f47e-2946-418b-b22e-62dc95ee1086.jpg)
 ---
 
