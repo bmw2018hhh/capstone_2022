@@ -10,4 +10,8 @@
 - 로고 
 ![KakaoTalk_20220527_015253786](https://user-images.githubusercontent.com/101175984/170536729-1d18f47e-2946-418b-b22e-62dc95ee1086.jpg)
 ---
+## 시스템 구조도
 
+## 기대효과 및 활용방안
+
+## 애플리케이션 기능
