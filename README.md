@@ -1,13 +1,15 @@
 # 2022-1 캡스톤 디자인 
-## 프로젝트명 : 식단관리 & 운동추천 애플리케이션
+## 프로젝트명 : 식단관리 & 운동추천 애플리케이션 "BETTER"
 ---
 ## 팀 소개
 - 팀명 : BMW
 - 지도교수 : 김유섭 교수님
 - 팀장 : 20185248 백지원
 - 팀원 : 20185234 김혜민
-- 로고 
+> 로고 "For better day, Better Life"
+
 ![KakaoTalk_20220527_015253786](https://user-images.githubusercontent.com/101175984/170536729-1d18f47e-2946-418b-b22e-62dc95ee1086.jpg)
+
 ---
 ## 시스템 구조도
 ![image](https://user-images.githubusercontent.com/101175984/170538015-83d00d58-7e21-4038-b3c6-d917dd88a734.png)
